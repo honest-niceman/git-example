@@ -5,7 +5,5 @@ public class Main {
         System.out.println("Hello world!");
         //todo add more code // can't do it until 2024
         //fixme
-
-
     }
 }
